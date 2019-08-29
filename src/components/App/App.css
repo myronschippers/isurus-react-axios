@@ -1,0 +1,30 @@
+header {
+  text-align: center;
+  height: 45px;
+  background-color: lightblue;
+  margin-bottom: 1rem;
+}
+
+header h1 {
+  margin: 0;
+}
+
+main {
+  width: 90%;
+  margin: auto;
+}
+
+section {
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.add-book {
+  border: solid 1px darkgrey;
+  border-radius: 0.2rem;
+  background-color: slategrey;
+  color: black;
+  float: right;
+  padding: 0.5rem;
+  text-decoration: none;
+}
